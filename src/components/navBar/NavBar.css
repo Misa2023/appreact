@@ -1,0 +1,20 @@
+div-padre-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.title {
+    border-radius: 20%;
+    background-color: aqua;
+}
+
+.titulo-padre {
+    display: flex;
+    justify-content: center;
+}
+.boton {
+    width: 150px;
+    color: blue;
+    margin-top: 40px;
+}
